@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c05d8b04.css",
+    "main.js": "/static/js/main.bb456c8c.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/alamin.png": "/static/media/alamin.4a1c36d5e67585694fae.png",
+    "static/media/bg1.jpg": "/static/media/bg1.6cdb10857eb4d8bc2e9c.jpg",
+    "static/media/myProject1.PNG": "/static/media/myProject1.1024d27adf47da9586c4.PNG",
+    "static/media/myProject2.JPG": "/static/media/myProject2.7f929aa888b62c6354ba.JPG",
+    "static/media/Resume of Md Al Amin Hossain.pdf": "/static/media/Resume of Md Al Amin Hossain.9e0847015e3423ce5a6a.pdf",
+    "static/media/myProject3.JPG": "/static/media/myProject3.d368bc11d6c6b481ccf0.JPG",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/alamin2.png": "/static/media/alamin2.ccaa251f1f77b7358427.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.c05d8b04.css.map": "/static/css/main.c05d8b04.css.map",
+    "main.bb456c8c.js.map": "/static/js/main.bb456c8c.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c05d8b04.css",
+    "static/js/main.bb456c8c.js"
+  ]
+}
