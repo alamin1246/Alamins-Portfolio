@@ -3,6 +3,7 @@ import Preloader from "../src/components/Pre";
 import Header from "./components/Header";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
+import Blogs from "./components/Blogs/Blogs";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import {
@@ -39,6 +40,7 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
+          <Route path="/blogs" element={<Blogs />} />
           <Route path="*" element={<Navigate to="/" />} />
         </Routes>
         <ToastContainer />

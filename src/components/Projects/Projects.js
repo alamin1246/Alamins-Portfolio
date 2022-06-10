@@ -34,6 +34,8 @@ function Projects() {
               Feedback, Resume Build, Purchase Product
                Customers and administrators have access to a dynamic dashboard."
               link="https://computer-parts-manufactu-c5c5c.web.app/"
+              serverLink="https://github.com/alamin1246/manufacturer-website-server-side"
+              clientLink="https://github.com/alamin1246/manufacturer-website-client-side"
             />
           </Col>
 
@@ -46,6 +48,7 @@ function Projects() {
                Customer Login, Signup and also Google, GitHub Login (Using Firebase and JWT)
                Customer Booking Services."
               link="https://alamins-home-food-catering-service.netlify.app/"
+              clientLink="https://github.com/alamin1246/independent-service-provider.git"
             />
           </Col>
 
@@ -60,6 +63,9 @@ function Projects() {
               Products, Update Product, View Products that means Manage Inventory 
                Admin have access to a dynamic dashboard."
               link="https://tangerine-figolla-1f58c9.netlify.app/"
+              serverLink="https://github.com/alamin1246/warehouse-management-server-side"
+              clientLink="https://github.com/alamin1246/warehouse-management-client-side"
+
             />
           </Col>
         </Row>
